@@ -20,6 +20,6 @@ public class Triangle {
           new Triangle().printTriangle(6);
 
 
-          
+
     }
 }
